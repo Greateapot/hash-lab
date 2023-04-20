@@ -1,0 +1,17 @@
+*.exe
+
+*.doc*
+*.png
+*.pdf
+*.xml
+
+*.old
+*.bkv
+
+*.zip
+
+*.dat
+*.bin
+*.hex
+
+/.vscode/
